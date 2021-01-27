@@ -47,7 +47,7 @@ All users on Satori will have two folders:
    /nobackup/users/<username>
    
 please download and install Anaconda3 in the: /nobackup/users/<your-username>/anaconda3 
-This is because /nobackup disk partition has way much more space compared with /home. In addition all files in /home will be automaticlay backuped compared with /nobackup partition. Anaconda3 can be install at any time in less then 10 minutes, therefore no backup is need.
+This is because /nobackup disk partition has way much more space compared with /home. In addition all files in /home will be automatically backuped compared with /nobackup partition. Anaconda3 can be install at any time in less then 10 minutes, therefore no backup is need.
 
 To install WMLCE you need to install on your login account `Anaconda for
 POWER9/ ppc64le 
